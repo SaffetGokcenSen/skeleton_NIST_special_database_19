@@ -4,6 +4,9 @@ database is at the following link:
 
 https://www.nist.gov/srd/nist-special-database-19
 
+The images of the character "J" are given in the file "train_4a.zip". The 28x28 
+skeletons of most of these images are given in the file "rescaled_skeleton_4a.zip".
+
 The packages used in the Python virtual environment are as follows:
 
 Package         Version
