@@ -4,7 +4,7 @@ database is at the following link:
 
 https://www.nist.gov/srd/nist-special-database-19
 
-The packages used in the Python virtuall environment are as follows:
+The packages used in the Python virtual environment are as follows:
 
 Package         Version
 --------------- -----------
